@@ -1,7 +1,11 @@
 // @ts-check
 
 export const Header = () => {
-  return <></>
+  return (
+    <header>
+      <h1>React App</h1>
+    </header>
+  )
 }
 
 export default Header

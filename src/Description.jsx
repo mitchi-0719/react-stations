@@ -1,7 +1,7 @@
 // @ts-check
 
 export const Description = () => {
-  return <></>
+  return <p>description</p>
 }
 
 export default Description
